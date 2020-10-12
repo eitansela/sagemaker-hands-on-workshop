@@ -89,7 +89,7 @@ Click the `tensorflow_bring_your_own.ipynb` in your Jupyter notebook and continu
 
 That's it. You have completed the workshop!
 
-You can continue learning about Amazon SageMaker with the following resources: 
+You can continue learning about Amazon SageMaker using the following resources: 
 * [Amazon SageMaker tutorial](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
 * [Amazon SageMaker developer resources](https://aws.amazon.com/sagemaker/developer-resources/)
 * [Amazon SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
