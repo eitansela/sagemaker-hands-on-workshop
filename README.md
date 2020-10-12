@@ -1,5 +1,5 @@
 # sagemaker-hands-on-workshop
-Amazon SageMaker hands-on workshop
+Amazon SageMaker Hands-On Workshop
 
 # Workshop Instructions
 _Note:  This workshop will create an ephemeral AWS acccount for each attendee.  This ephemeral account is not accessible after the workshop.  You can, of course, clone this GitHub repo and reproduce the entire workshop in your own AWS Account._
