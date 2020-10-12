@@ -66,6 +66,14 @@ Select `Open Jupyter`.
 ![Start Jupyter](img/start_jupyter.png)
 
 ## 5. Start the Workshop!
-Click the `xgboost_customer_churn-student.ipynb` in your Jupyter notebook and start the workshop!
 
-![Start Workshop](img/start_workshop.png)
+Click the `sagemaker-hands-on-workshop` folder in your Jupyter notebook.
+![Start Workshop](img/start_workshop_1.png)
+
+Click the `sagemaker_script_mode` folder in your Jupyter notebook.
+![Start Workshop](img/start_workshop_2.png)
+
+
+Click the `02_tensorflow_keras_CIFAR10.ipynb` in your Jupyter notebook and start the workshop!
+
+![Start Workshop](img/start_workshop_3.png)
