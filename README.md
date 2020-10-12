@@ -77,3 +77,12 @@ Click the `01-sagemaker_script_mode` folder in your Jupyter notebook.
 Click the `tensorflow_keras_CIFAR10.ipynb` in your Jupyter notebook and start the workshop!
 
 ![Start Workshop](img/start_workshop_3.png)
+
+When finished executing all cells in `tensorflow_keras_CIFAR10.ipynb`
+
+Click the `02-sagemaker_bring_your_own_container` folder in your Jupyter notebook.
+![Start Workshop](img/start_workshop_4.png)
+
+Click the `tensorflow_bring_your_own.ipynb` in your Jupyter notebook and continue the workshop!
+
+![Start Workshop](img/start_workshop_5.png)
