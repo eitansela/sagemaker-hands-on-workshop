@@ -1,4 +1,4 @@
-# ChurnWorkshop
+# sagemaker-hands-on-workshop
 Amazon SageMaker hands-on workshop
 
 # Workshop Instructions
