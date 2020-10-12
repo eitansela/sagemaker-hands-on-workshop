@@ -86,3 +86,11 @@ Click the `02-sagemaker_bring_your_own_container` folder in your Jupyter noteboo
 Click the `tensorflow_bring_your_own.ipynb` in your Jupyter notebook and continue the workshop!
 
 ![Start Workshop](img/start_workshop_5.png)
+
+That's it. You have completed the workshop!
+
+You can continue learning about Amazon SageMaker with the following resources: 
+* [Amazon SageMaker tutorial](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
+* [Amazon SageMaker developer resources](https://aws.amazon.com/sagemaker/developer-resources/)
+* [Amazon SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
+
