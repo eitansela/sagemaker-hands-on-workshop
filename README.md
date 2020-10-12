@@ -70,10 +70,10 @@ Select `Open Jupyter`.
 Click the `sagemaker-hands-on-workshop` folder in your Jupyter notebook.
 ![Start Workshop](img/start_workshop_1.png)
 
-Click the `sagemaker_script_mode` folder in your Jupyter notebook.
+Click the `01-sagemaker_script_mode` folder in your Jupyter notebook.
 ![Start Workshop](img/start_workshop_2.png)
 
 
-Click the `02_tensorflow_keras_CIFAR10.ipynb` in your Jupyter notebook and start the workshop!
+Click the `tensorflow_keras_CIFAR10.ipynb` in your Jupyter notebook and start the workshop!
 
 ![Start Workshop](img/start_workshop_3.png)
