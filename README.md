@@ -67,9 +67,6 @@ Select `Open Jupyter`.
 
 ## 5. Start the Workshop!
 
-Click the `sagemaker-hands-on-workshop` folder in your Jupyter notebook.
-![Start Workshop](img/start_workshop_1.png)
-
 Click the `01-sagemaker_script_mode` folder in your Jupyter notebook.
 ![Start Workshop](img/start_workshop_2.png)
 
