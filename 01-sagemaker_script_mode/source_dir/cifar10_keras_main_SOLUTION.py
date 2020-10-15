@@ -312,9 +312,9 @@ def main(args):
     # Horovod: Save model only on worker 0 (i.e. master)
     if mpi:
         if hvd.rank() == 0:
-            save_model(model, <HARD CODED PATH ON MY LOCAL PC>)
+            save_model(model, args.model_output_dir)
     else:
-        save_model(model, <HARD CODED PATH ON MY LOCAL PC>)
+        save_model(model, args.model_output_dir)
         
 
 
@@ -335,7 +335,7 @@ if __name__ == '__main__':
     parser.add_argument('--train',type=str,required=False,default=os.environ.get('SM_CHANNEL_TRAIN'),help='The directory where the CIFAR-10 input data is stored.')
     parser.add_argument('--validation',type=str,required=False,default=os.environ.get('SM_CHANNEL_VALIDATION'),help='The directory where the CIFAR-10 validation data is stored.')
     parser.add_argument('--eval',type=str,required=False,default=os.environ.get('SM_CHANNEL_EVAL'),help='The directory where the CIFAR-10 input data is stored.')
-    parser.add_argument('--model_dir',type=str,required=True)
+    parser.add_argument('--model_dir',type=str,required=True,help='The directory where the model will be stored.')
     parser.add_argument('--model_output_dir',type=str,default=os.environ.get('SM_MODEL_DIR'))
     parser.add_argument('--output-dir',type=str,default=os.environ.get('SM_OUTPUT_DIR'))
     parser.add_argument('--tensorboard-dir',type=str,default=os.environ.get('SM_MODULE_DIR'))
